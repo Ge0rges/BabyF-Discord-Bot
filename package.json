@@ -1,0 +1,13 @@
+{
+  "name": "Baby F Meeting Bot",
+  "version": "b0.0.1",
+  "description": "Discord bot to coordinate game time",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Georges Kanaan",
+  "dependencies": {
+    "discord.js": ""
+  }
+}
